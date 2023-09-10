@@ -3,9 +3,8 @@
 * @Author: EddyCliff
 * @Version: 1.0
 * @Date: 2023-09-09
-* @Description: This C++ program demonstrates the use of variables.
-*               It initializes an integer variable 'a' with the value 10
-*               and then prints the value to the console.
+* @Description: 这个C++程序演示了变量的使用。
+*               它初始化一个整数变量 'a' 的值为 10，然后将该值打印到控制台。
 ********************************************************************************/
 #include<iostream>
 using namespace std;
