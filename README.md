@@ -1,6 +1,7 @@
 # 嵌入式学习笔记
 
 ## 嵌入式基础
+- [C](C/Embedded-C-Tutorial.md)
 - [C++](CPP/CPP-Tutorial.md)
 
 ## Linux应用开发
